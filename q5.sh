@@ -20,15 +20,6 @@ check_directory()
 
     size_kb=$(du -s "$dir" | cut -f1)
 
-    if [ $size_kb -lt 102400 ]
-    then
-        echo "Size: Small"
-    elif [ $size_kb -le 1048576 ]
-    then
-        echo "Size: Medium"
-    else
-        echo "Size: Large"
-    fi
 
     echo
 }
