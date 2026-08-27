@@ -1,0 +1,8 @@
+deepjyoti@DESKTOP-T0V6EGV:~/my-project$ ./analyze.sh
+Total lines:
+11 students.csv
+CSE Students:
+4
+EE Students:
+4
+Analysis Completed

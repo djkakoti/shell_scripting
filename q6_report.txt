@@ -1,0 +1,30 @@
+System Information Report
+Date and Time: Tue Aug 18 15:27:14 UTC 2026
+User: deepjyoti
+Hostname: DESKTOP-T0V6EGV
+Working Directory: /home/deepjyoti/my-project
+Available Disk Space:
+Filesystem      Size  Used Avail Use% Mounted on
+none             24G     0   24G   0% /usr/lib/modules/6.18.33.2-microsoft-standard-WSL2
+none             24G  4.0K   24G   1% /mnt/wsl
+drivers         782G  461G  321G  59% /usr/lib/wsl/drivers
+/dev/sdd       1007G  5.0G  951G   1% /
+none             24G   64K   24G   1% /mnt/wslg
+none             24G     0   24G   0% /usr/lib/wsl/lib
+rootfs           24G  2.8M   24G   1% /init
+none             24G  572K   24G   1% /run
+none             24G     0   24G   0% /run/lock
+none             24G     0   24G   0% /run/shm
+none             24G   80K   24G   1% /mnt/wslg/versions.txt
+none             24G   80K   24G   1% /mnt/wslg/doc
+C:\             782G  461G  321G  59% /mnt/c
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs            24G     0   24G   0% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           4.7G   12K  4.7G   1% /run/user/1000
+Available Memory:
+               total        used        free      shared  buff/cache   available
+Mem:            46Gi       951Mi        46Gi       3.6Mi       308Mi        45Gi
+Swap:           12Gi          0B        12Gi
+System Uptime:  15:27:14 up  2:00,  1 user,  load average: 0.10, 0.05, 0.04

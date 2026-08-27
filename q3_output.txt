@@ -1,0 +1,7 @@
+deepjyoti@DESKTOP-T0V6EGV:~/my-project$ ./q3.sh
+27M     /home/deepjyoti/xv6-riscv/
+19M     /home/deepjyoti/cs744/
+7.6M    /home/deepjyoti/simplecpp/
+136K    /home/deepjyoti/my-project/
+48K     /home/deepjyoti/decs practice/
+8.0K    /home/deepjyoti/software_lab/

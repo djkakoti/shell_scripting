@@ -1,0 +1,15 @@
+deepjyoti@DESKTOP-T0V6EGV:~$ ./q5.sh software_lab/ xv6-riscv/ my-project/
+Directory: software_lab/
+Number of files: 1
+Disk usage: 8.0K
+Size: Small
+
+Directory: xv6-riscv/
+Number of files: 274
+Disk usage: 27M
+Size: Small
+
+Directory: my-project/
+Number of files: 24
+Disk usage: 144K
+Size: Small

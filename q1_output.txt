@@ -1,0 +1,20 @@
+deepjyoti@DESKTOP-T0V6EGV:~/my-project$ ./project_summary.sh
+Total number of files:
+30
+Total disk usage:
+168K    /home/deepjyoti/my-project
+Files sorted by modification time:
+total 48
+-rw-r--r-- 1 deepjyoti deepjyoti 1538 Aug 18 15:27 q6_report.txt
+-rwxr--r-- 1 deepjyoti deepjyoti  484 Aug 18 15:27 q6.sh
+-rw-r--r-- 1 deepjyoti deepjyoti   57 Aug 18 15:25 q9_report.txt
+-rwxr--r-- 1 deepjyoti deepjyoti  563 Aug 18 15:22 q9.sh
+-rw-r--r-- 1 deepjyoti deepjyoti  569 Aug 18 15:19 q7_report.txt
+-rwxr--r-- 1 deepjyoti deepjyoti  746 Aug 18 15:19 q7.sh
+-rwxr--r-- 1 deepjyoti deepjyoti  590 Aug 18 15:04 q5.sh
+-rwxr--r-- 1 deepjyoti deepjyoti   72 Aug 18 15:01 q4.sh
+-rwxr--r-- 1 deepjyoti deepjyoti   65 Aug 18 14:56 q3.sh
+-rwxr--r-- 1 deepjyoti deepjyoti  279 Aug 18 14:53 analyze.sh
+-rw-r--r-- 1 deepjyoti deepjyoti  156 Aug 18 14:53 students.csv
+-rwxr--r-- 1 deepjyoti deepjyoti  650 Aug 18 14:47 project_summary.sh
+Analysis Completed

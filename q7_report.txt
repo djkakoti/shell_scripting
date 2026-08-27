@@ -1,0 +1,26 @@
+User Login Report
+-----------------
+Currently Logged In:
+Number of Logged-in Users:
+0
+Checking User: deepjyoti
+deepjyoti is not currently logged in
+Last 10 User Logins:
+deepjyot pts/1                         Thu Aug 20 09:21 - still logged in
+reboot   system boot  6.18.33.2-micros Thu Aug 20 09:21 - still running
+deepjyot pts/1                         Thu Aug 20 04:15 - 05:42  (01:26)
+reboot   system boot  6.18.33.2-micros Thu Aug 20 04:15 - 05:42  (01:26)
+deepjyot pts/1                         Mon Aug 17 17:58 - 18:49 (2+00:51)
+reboot   system boot  6.18.33.2-micros Mon Aug 17 17:58 - 18:49 (2+00:51)
+
+wtmpdb begins Mon Aug 17 17:58:00 2026
+Number of Unique Users:
+4
+Most Recent Logins:
+deepjyot pts/1                         Thu Aug 20 09:21 - still logged in
+reboot   system boot  6.18.33.2-micros Thu Aug 20 09:21 - still running
+deepjyot pts/1                         Thu Aug 20 04:15 - 05:42  (01:26)
+reboot   system boot  6.18.33.2-micros Thu Aug 20 04:15 - 05:42  (01:26)
+deepjyot pts/1                         Mon Aug 17 17:58 - 18:49 (2+00:51)
+
+wtmpdb begins Mon Aug 17 17:58:02 2026
