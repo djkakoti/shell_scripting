@@ -11,14 +11,6 @@ who >> q7_report.txt
 echo "Number of Logged-in Users:" >> q7_report.txt
 who | wc -l >> q7_report.txt
 
-echo "Checking User: $USER" >> q7_report.txt
-
-if who | grep -q "^$USER "
-then
-    echo "$USER is currently logged in" >> q7_report.txt
-else
-    echo "$USER is not currently logged in" >> q7_report.txt
-fi
 
 echo "Last 10 User Logins:" >> q7_report.txt
 last -10 >> q7_report.txt
